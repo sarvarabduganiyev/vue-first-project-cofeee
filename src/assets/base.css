@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Karla&display=swap');
+
+@media(max-width:1440px){
+  .max__w{
+    max-width: 1366px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+}
+@media(max-width:1330px){
+  .max__w{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+}
